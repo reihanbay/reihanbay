@@ -1,9 +1,6 @@
 ### Hello all of you in The World! 👋
 
-#### An android developer who has the ambition and desire to
-learn android development, able to work well in teams
-and individuals and are able and willing to adapt and
-growing about new things
+#### An android developer who has the ambition and desire to learn android development, able to work well in teams and individuals and are able and willing to adapt and growing about new things
 
 **I'm currently active in contributing as Junior Android Developer at <a href="[https://medika.ai](https://www.medika.ai/)">@Investo Medika Asia</a> to build health care in Front-End Apps (Android native - Kotlin)
 
